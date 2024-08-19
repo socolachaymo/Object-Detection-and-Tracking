@@ -12,4 +12,6 @@ The app processes video input and uses YOLOv10 for object detection. Each frame 
 
 ### Demo
 Check out a demo video of the app in action below:
-![](videos/output.mp4)
+<video width="320" height="240" controls>
+  <source src="videos/output.mp4" type="video/mp4">
+</video>
