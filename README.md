@@ -13,4 +13,4 @@ The app processes video input and uses YOLOv10 for object detection. Each frame 
 ### Demo
 Check out a demo video of the app in action below:
 
-![](output.gif "Demo Video" | align="center")
+<img src="output.gif" align="center">
